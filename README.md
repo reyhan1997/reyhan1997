@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently, I am learning data cleaning, data visualization, 
+I am looking to collaborate on business insight improvement.
 <!--
 **reyhan1997/reyhan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
