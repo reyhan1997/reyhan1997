@@ -2,21 +2,20 @@
 
 💡 **Personal Statement**
 
-Currently, I am learning data cleaning, data visualization, 
-I am looking to collaborate on business insight improvement.
+Currently, I am learning data cleaning, data visualization, and data scientist.
+I am looking to collaborate on business insight .
 
-✔ What is your business highlight for further expansion?
-✔ How about your data management?
-✔ When can improvement be prepared?
+✔ 
+✔ 
+✔ 
 
 🛠️**Skill and Technologies**
 Data Engineering Tools
 
 Programming and Analytics
 Microsoft Excel
-<! Python
-Power BI >
-MySQL
+Python
+
 
 
 <!--
