@@ -14,8 +14,8 @@ Data Engineering Tools
 
 Programming and Analytics
 Microsoft Excel
-<!> Python
-<!> Power BI <!>
+<! Python
+Power BI >
 MySQL
 
 
