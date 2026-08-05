@@ -2,8 +2,8 @@
 
 💡 **Personal Statement**
 
-Currently, I am learning data cleaning, data visualization, and data scientist.
-I am looking to collaborate on business insight .
+Currently, I am focus on data cleaning, data visualization, and data scientist.
+I am looking to collaborate on business insight.
 
 ✔ 
 ✔ 
