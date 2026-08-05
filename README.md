@@ -2,8 +2,8 @@
 
 💡 **Personal Statement**
 
-Currently, I am focus on data cleaning, data visualization, and data scientist.
-I am looking to collaborate on business insight.
+Currently, I am focused on data cleaning, data exploration, and machine learning.
+I am looking to collaborate on business insights and as a data expert.
 
 ✔ 
 ✔ 
@@ -11,11 +11,12 @@ I am looking to collaborate on business insight.
 
 🛠️**Skill and Technologies**
 Data Engineering Tools
-
 Programming and Analytics
+
 Microsoft Excel
 Python
-
+Google Colaboratory
+Visual Studio Code
 
 
 <!--
