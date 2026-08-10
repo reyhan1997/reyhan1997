@@ -15,11 +15,15 @@ Machine Learning
 Programming and Analytics
 
 Microsoft Excel  Pivot Table Macro VBA
-Python
-Google Colab
 Data Studio
+Python Numpy Pandas Matplotlib Seaborn
+
+Google Colab
 Jupyter Notebook
 Visual Studio Code
+Anaconda Navigator
+
+MySQL
 
 
 <!--
