@@ -2,7 +2,7 @@
 
 💡 **Personal Statement**
 
-Currently, I am focused on data cleaning, data exploration, and machine learning.
+Currently, I am focus on data cleaning, data exploration, and machine learning.
 I am looking to collaborate on business insights and as a data expert.
 
 ✔ 
