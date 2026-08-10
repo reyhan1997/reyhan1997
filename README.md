@@ -11,11 +11,14 @@ I am looking to collaborate on business insights and as a data expert.
 
 🛠️**Skill and Technologies**
 Data Engineering Tools
+Machine Learning
 Programming and Analytics
 
-Microsoft Excel
+Microsoft Excel  Pivot Table Macro VBA
 Python
-Google Colaboratory
+Google Colab
+Data Studio
+Jupyter Notebook
 Visual Studio Code
 
 
